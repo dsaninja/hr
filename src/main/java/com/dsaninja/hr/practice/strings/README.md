@@ -1,5 +1,7 @@
 # Problems involving String class from HackerRank
 
+Java String problems from [HackerRank](https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-strings)
+
 | S.No | Challenge                                                                                         | Solution                                                               |
 |------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | 1    | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)      | [Solution](Introduction.java)                                          |

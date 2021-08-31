@@ -1,5 +1,7 @@
 # Data structure using java practice problems from HackerRank
 
+Java data structure related problems from [HackerRank](https://www.hackerrank.com/domains/java?filters%5Bsubdomains%5D%5B%5D=java-data-structure)
+
 | S.No | Challenge                                                                                 | Solution                          |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|
 | 1    | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solution](Java1DArray.java)      |
