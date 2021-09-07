@@ -18,4 +18,5 @@ Various practice problems from HackerRank. All the problems are tested against a
 
 ### Algorithms
 
-1. [Search](src/main/java/com/dsaninja/hr/practice/algorithms/search)
+1. [Warmup](src/main/java/com/dsaninja/hr/practice/algorithms/warmup)
+2. [Search](src/main/java/com/dsaninja/hr/practice/algorithms/search)

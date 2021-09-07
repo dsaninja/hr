@@ -11,3 +11,6 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 5    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)                           | [Solution](DiagonalDifference.java)       | Easy   |
 | 6    | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                                             | [Solution](PlusMinus.java)                | Easy   |
 | 7    | [StairCase](https://www.hackerrank.com/challenges/staircase/problem)                                               | [Solution](StairCase.java)                | Easy   |
+| 8    | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                         | [Solution](MinMax.java)                   | Easy   |
+| 9    | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                       | [Solution](BirthdayCakeCandles.java)      | Easy   |
+| 10   | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                                   | [Solution](TimeConversion.java)           | Easy   |
