@@ -4,7 +4,8 @@ Various algorithm related problems implemented in java from [HackerRank](https:/
 
 
 1. [Warm Up](warmup)
-2. [Search](search)
+2. [Implementation](implementation)
+3. [Search](search)
 
 
 
