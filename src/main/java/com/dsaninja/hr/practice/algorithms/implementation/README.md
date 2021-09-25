@@ -10,3 +10,4 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 4    | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)              | [Solution](BreakingTheRecords.java)       | Easy   |
 | 5    | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)                                | [Solution](SubarrayDivision.java)         | Easy   |
 | 6    | [Divisble Sum Pair](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)                             | [Solution](DivisibleSumPair.java)         | Easy   |
+| 7    | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)                                   | [Solution](MigratoryBirds.java)           | Easy   |
