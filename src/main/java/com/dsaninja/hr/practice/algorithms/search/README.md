@@ -10,7 +10,7 @@ Various search related problems implemented in java from [HackerRank](https://ww
 | 3    | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)                       | [Solution](SherlockAndArray.java)     | Easy   |
 | 4    | [Pairs](https://www.hackerrank.com/challenges/pairs/problem)                                                 | [Solution](Pairs.java)                | Medium |
 | 5    | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Solution](RadioTransmitters.java)    | Medium |
-| 6    | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem)                               | [Solution](RadioTransmitters.java)    | Medium |
+| 6    | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro/problem)                               | [Solution](GridLandMetro.java)        | Medium |
 
 
 
