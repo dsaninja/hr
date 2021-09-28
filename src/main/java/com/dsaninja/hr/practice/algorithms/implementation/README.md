@@ -11,3 +11,6 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 5    | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)                                | [Solution](SubarrayDivision.java)         | Easy   |
 | 6    | [Divisble Sum Pair](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)                             | [Solution](DivisibleSumPair.java)         | Easy   |
 | 7    | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)                                   | [Solution](MigratoryBirds.java)           | Easy   |
+| 8    | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)                       | [Solution](DayOfProgrammer.java)          | Easy   |
+| 9    | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)                                         | [Solution](BillDivision.java)             | Easy   |
+| 9    | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)                                      | [Solution](SockMerchant.java)             | Easy   |
