@@ -14,3 +14,4 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 8    | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)                       | [Solution](DayOfProgrammer.java)          | Easy   |
 | 9    | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)                                         | [Solution](BillDivision.java)             | Easy   |
 | 9    | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)                                      | [Solution](SockMerchant.java)             | Easy   |
+| 10   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                         | [Solution](DrawingBook.java)              | Easy   |
