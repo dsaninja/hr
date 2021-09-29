@@ -15,3 +15,7 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 9    | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)                                         | [Solution](BillDivision.java)             | Easy   |
 | 9    | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)                                      | [Solution](SockMerchant.java)             | Easy   |
 | 10   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                         | [Solution](DrawingBook.java)              | Easy   |
+| 11   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                                 | [Solution](CountingValleys.java)          | Easy   |
+| 12   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)                                 | [Solution](ElectronicsShop.java)          | Easy   |
+| 13   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                                 | [Solution](CatsAndMouse.java)             | Easy   |
+| 14   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                   | [Solution](PickingNumbers.java)           | Easy   |
