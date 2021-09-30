@@ -15,3 +15,6 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 9    | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)                                         | [Solution](BillDivision.java)             | Easy   |
 | 9    | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)                                      | [Solution](SockMerchant.java)             | Easy   |
 | 10   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                         | [Solution](DrawingBook.java)              | Easy   |
+| 11   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                                   | [Solution](TheHurdleRace.java)            | Easy   |
+| 12   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)                           | [Solution](DesignerPdfViewer.java)        | Easy   |
+| 12   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                         | [Solution](UtopianTree.java)              | Easy   |
