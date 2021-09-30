@@ -23,8 +23,10 @@ public class NumberLineJumps{
                 // this gives us:
                 // (startingPointForFirstKangaroo - startingPointForSecondKangaroo) % (jumpSizeForSecondKangaroo - jumpSizeForFirstKangaroo) == 0
                 // for n as a whole number
-                String result =
-                        ((startingPointForFirstKangaroo - startingPointForSecondKangaroo) % (jumpSizeForSecondKangaroo - jumpSizeForFirstKangaroo) == 0) ? "YES" : "NO";
+                String result = ((startingPointForFirstKangaroo - startingPointForSecondKangaroo) %
+                        (jumpSizeForSecondKangaroo - jumpSizeForFirstKangaroo) == 0) ?
+                        "YES" :
+                        "NO";
                 System.out.println(result);
             } else{
                 System.out.println("NO");
