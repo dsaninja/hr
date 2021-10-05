@@ -22,3 +22,6 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 15   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                                   | [Solution](TheHurdleRace.java)            | Easy   |
 | 16   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)                           | [Solution](DesignerPdfViewer.java)        | Easy   |
 | 17   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                         | [Solution](UtopianTree.java)              | Easy   |
+| 18   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                                   | [Solution](AngryProfessor.java)           | Easy   |
+| 19   | [Beautiful Day at Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)              | [Solution](BeautifulDays.java)            | Easy   |
+| 20   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)                             | [Solution](ViralAdvertising.java)         | Easy   |
