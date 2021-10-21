@@ -25,4 +25,6 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 18   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                                   | [Solution](AngryProfessor.java)           | Easy   |
 | 19   | [Beautiful Day at Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)              | [Solution](BeautifulDays.java)            | Easy   |
 | 20   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)                             | [Solution](ViralAdvertising.java)         | Easy   |
-| 21   | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)                                | [Solution](SaveThePrisoner.java)          | Easy   |
+| 21   | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)                               | [Solution](SaveThePrisoner.java)          | Easy   |
+| 22   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)  | [Solution](JumpingOnTheCloudRev.java)     | Easy   |
+| 22   | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                                           | [Solution](FindDigits.java)               | Easy   |
