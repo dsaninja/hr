@@ -28,3 +28,4 @@ Various beginner practice problems from [HackerRank](https://www.hackerrank.com/
 | 21   | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)                               | [Solution](SaveThePrisoner.java)          | Easy   |
 | 22   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)  | [Solution](JumpingOnTheCloudRev.java)     | Easy   |
 | 22   | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                                           | [Solution](FindDigits.java)               | Easy   |
+| 23   | [AppendAndDelete](https://www.hackerrank.com/challenges/append-and-delete/problem)                                 | [Solution](AppendAndDelete.java)          | Easy   |
