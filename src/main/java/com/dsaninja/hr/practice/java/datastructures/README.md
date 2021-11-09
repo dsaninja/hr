@@ -7,9 +7,9 @@ Java data structure related problems from [HackerRank](https://www.hackerrank.co
 | 1    | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Solution](Java1DArray.java)      | Easy   |
 | 2    | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)              | [Solution](Java2DArray.java)      | Easy   |
 | 3    | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)     | [Solution](JavaSubarray.java)     | Easy   | 
-| 4    | [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)            | [Solution](JavaArrayList.java)    | Easy   |
+| 4    | [Java ArrayList*](https://www.hackerrank.com/challenges/java-arraylist/problem)           | [Solution](JavaArrayList.java)    | Easy   |
 | 5    | [Java 1D Array - Part2](https://www.hackerrank.com/challenges/java-1d-array/problem)      | [Solution](Java1DArrayPart2.java) | Medium |
-| 6    | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)                | [Solution](JavaDequeue.java)      | Medium |
+| 6    | [Java Dequeue*](https://www.hackerrank.com/challenges/java-dequeue/problem)               | [Solution](JavaDequeue.java)      | Medium |
 | 7    | [Java List](https://www.hackerrank.com/challenges/java-list/problem)                      | [Solution](JavaList.java)         | Easy   |
 | 8    | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem)                      | [Solution](JavaMap.java)          | Easy   |
 | 9    | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem)                    | [Solution](JavaStack.java)        | Medium |
